@@ -1,10 +1,10 @@
 # nvdparser
 ## Script to get the latest known vulnerabilities from NVD.
 
-Author: Rafael Murillo
-Twitter: @cehrmurillo
-Blog: https://almost4hacker.blogspot.mx/
-Version: 0.1
+#### Author: Rafael Murillo
+#### Twitter: @cehrmurillo
+#### Blog: https://almost4hacker.blogspot.mx/
+#### Version: 0.1
 
 This script was born from the need to obtain the most recent vulnerabilities from the NVD feeds for certain technologies (operating systems and applications).
 
